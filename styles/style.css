@@ -85,3 +85,33 @@ h4 {
     padding-left: 40px;
     vertical-align: middle;
 }
+.column1 {
+    display: inline-block;
+    width: 758px;
+    height: 902px;
+    margin-left: 170px;
+}
+.centre {
+    position: absolute;
+    width: 202px;
+    height: 23px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    top: 40%;
+    left: 35%;
+    color: #FFFFFF;    
+}
+.column2 {
+    display: inline-block;
+    width: 362px;
+    height: 842px;
+    vertical-align: top;
+    margin-left: 45px;
+}
+.spilo {
+    display: inline-block;
+    margin-bottom: 103px;
+}
